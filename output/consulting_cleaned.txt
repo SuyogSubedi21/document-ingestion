@@ -1,0 +1,180 @@
+AI Consulting OS
+Master Scrum Roadmap
+This roadmap is designed for a 5-person startup team with similar JavaScript, Python, Java, frontend and backend
+experience. The project will use AI-assisted development (“vibe coding”), Agile methodology, and Scrum workflows to
+build an AI-powered SaaS platform for consulting firms, NGOs, agencies and proposal-writing organisations.
+Project Vision
+
+Build an AI-powered SaaS platform for proposal generation, report writing, compliance checking, budget
+generation and document automation.
+
+Target recurring revenue: $20k–30k/month within 12–18 months.
+
+Use AI APIs instead of training custom AI models.
+Core Tech Stack
+
+Frontend: Next.js + Tailwind CSS + shadcn/ui
+
+Backend: Node.js + Express.js
+
+Database: PostgreSQL
+
+AI: OpenAI API
+
+Document Processing: Python + pdfplumber + docxtpl
+
+Hosting: VPS initially
+
+Version Control: GitHub
+Agile + Scrum Structure
+
+Sprint Duration: 1 week
+
+Daily Standup: 15 minutes
+
+Weekly Sprint Planning every Monday
+
+Sprint Review every Friday
+
+Sprint Retrospective at end of sprint
+
+Use Trello or Jira for sprint management
+Team Workflow
+
+All 5 developers act as full-stack generalists.
+
+Responsibilities rotate every sprint.
+
+Each sprint has temporary leads for frontend, backend, AI, documents, and QA.
+
+Use Discord screenshare and collaborative debugging sessions.
+
+Sprint 1 - Learning & Setup
+
+Learn Next.js basics
+
+Learn Express.js APIs
+
+Learn PostgreSQL CRUD
+
+Set up GitHub repository
+
+Set up Trello Scrum board
+
+Create landing page
+
+Set up authentication system
+
+Connect frontend to backend
+Sprint 2 - File Upload & AI Integration
+
+Build PDF/TOR upload feature
+
+Extract text from PDFs
+
+Integrate OpenAI API
+
+Test AI prompts
+
+Store uploaded documents
+
+Create dashboard UI
+Sprint 3 - Proposal Generator
+
+Generate executive summaries
+
+Generate methodologies
+
+Generate objectives
+
+Create editable proposal editor
+
+Save generated proposals to database
+Sprint 4 - Compliance Checker
+
+Extract proposal requirements
+
+Compare against uploaded proposal
+
+Detect missing sections
+
+Generate compliance score
+
+Create compliance dashboard
+Sprint 5 - Workplan Generator
+
+Generate timelines
+
+Generate milestones
+
+
+Generate staffing plans
+
+Create Gantt chart views
+
+Export workplans
+Sprint 6 - Report Generator
+
+Upload raw notes
+
+Generate structured reports
+
+Generate conclusions and recommendations
+
+Generate executive summaries
+
+Create report templates
+Sprint 7 - Knowledge Base
+
+Upload previous proposals
+
+Store organisation writing styles
+
+Use embeddings and vector search
+
+Implement retrieval augmented generation (RAG)
+Sprint 8 - Export System
+
+Export DOCX files
+
+Export PDFs
+
+Improve formatting
+
+Create branded templates
+Sprint 9 - Billing & Subscription
+
+Integrate Paddle
+
+Create pricing plans
+
+Restrict features by plan
+
+Track usage quotas
+Sprint 10 - Collaboration Features
+
+Comments system
+
+Team workspaces
+
+Proposal approvals
+
+Version history
+
+Growth Roadmap
+
+Month 1–2: Build MVP
+
+Month 3–4: Start onboarding first users
+
+Month 5–6: Improve AI quality and exports
+
+Month 7–12: Focus on retention and subscriptions
+
+Target 150–200 customers paying $149–199/month
+Final Advice
+The biggest competitive advantage of this startup is domain knowledge. Most developers do not understand
+consulting workflows, proposal structures, donor requirements and NGO reporting systems. Combining that
+knowledge with AI-assisted automation creates a strong business moat. Focus on: - speed - simplicity - proposal
+quality - beautiful exports - reducing workload Avoid overengineering early. Ship fast, improve continuously, and learn
+while building.
